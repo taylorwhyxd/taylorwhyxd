@@ -33,13 +33,14 @@ color:#383838;
 
 .introtext {
 
-    font-size: 32px;
+    font-size: 64px;
+    font-weight: 700;
     padding-top: 55px;
 }
 
 .introtext1 {
 
-    font-size: 45px;
+    font-size: 24px;
     padding-top: 50px;
 }
 
